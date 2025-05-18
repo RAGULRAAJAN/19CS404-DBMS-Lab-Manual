@@ -1,5 +1,5 @@
 # Experiment 6: Joins
-REG NO: 212224230009
+REG NO: 212223100043
 ## AIM
 To study and implement different types of joins.
 
